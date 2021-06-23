@@ -20,7 +20,9 @@ Weather Dashboard API is provided by
 using openweatherAPI and 
   background-image: url('https://source.unsplash.com/1600x900')
 
-  ![](https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png)
+ <img src= "https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png" width=600>
+  
+  https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png
   
 
   
