@@ -1,4 +1,4 @@
-# homeworkWeek6WeatherDash
+# HomeworkWeek6WeatherDash
 
 Weather on Demand:
 Grab current weather for any city in the world the default Country is the US so include your Countires Alph-2 code (Example: United States= US) 
@@ -20,7 +20,10 @@ Weather Dashboard API is provided by
 using openweatherAPI and 
   background-image: url('https://source.unsplash.com/1600x900')
 
-  ![]develop/Screenshot(13).png
+ <img src= "https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png" width=600>
+  
+  https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png
+  
 
   
 
