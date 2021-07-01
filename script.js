@@ -1,6 +1,6 @@
 const APIkey = {
   key: "59095e5b68e0754be456e4992763660f",
-base:  "http://api.openweathermap.org/data/2.5/"
+base:  "https://api.openweathermap.org/data/2.5/"
 // weather?q="+ city"&units=imperial&appid=${'APIkey'}`
 }
 
