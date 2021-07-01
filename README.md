@@ -22,7 +22,7 @@ using openweatherAPI and
 
  <img src= "https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png" width=600>
   
-  https://github.com/Kamille-Y/homeworkWeek6WeatherDash/blob/main/Develop/Screenshot.png
+  https://kamille-y.github.io/homeworkWeek6WeatherDash/
   
 
   
