@@ -1,4 +1,4 @@
-# HomeworkWeek6WeatherDash
+Weather Dash
 
 Weather on Demand:
 Grab current weather for any city in the world the default Country is the US so include your Countires Alph-2 code (Example: United States= US) 
